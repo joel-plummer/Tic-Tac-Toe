@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Basic Tic-Tac-Toe game written in JavaScript.
+Classic Tic-Tac-Toe game written in JavaScript.
